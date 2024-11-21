@@ -1,0 +1,15 @@
+{
+  "name": "rankedmatchcalculatordio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node rankedMatchCalculator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anniely Mariah Soares de Medeiros",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
