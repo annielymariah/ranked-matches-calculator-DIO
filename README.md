@@ -42,7 +42,7 @@ The application must:
 
 2. **Clone this repository**:  
    ```bash  
-   git clone https://github.com/annielymariah/rankedMatchCalculatorDIO.git  
+   git clone https://github.com/annielymariah/rankedMatchesCalculatorDIO.git  
    ```  
 
 3. **Navigate to the project directory**:  
