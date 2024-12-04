@@ -42,12 +42,12 @@ The application must:
 
 2. **Clone this repository**:  
    ```bash  
-   git clone https://github.com/annielymariah/rankedMatchesCalculatorDIO.git  
+   git clone https://github.com/annielymariah/ranked-matches-calculator-DIO.git  
    ```  
 
 3. **Navigate to the project directory**:  
    ```bash  
-   cd rankedMatchCalculatorDIO  
+   cd ranked-matches-calculator-DIO
    ```  
 
 4. **Install the dependencies**:  
